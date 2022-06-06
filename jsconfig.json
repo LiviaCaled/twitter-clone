@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "."
+  }
+}
+
+// allow us to import modules without needing relative paths
